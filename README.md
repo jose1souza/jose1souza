@@ -1,13 +1,13 @@
-## Perfil do José Carlos Souza, estudante de Sistemas de Informação no IFSULDEMINAS - Campus Machado, atualmente no 3º período!
+## Perfil do José Carlos Souza
 
 ---
 
 ## 👨‍💻 Sobre Mim  
 
-🎓 Estudante de **Sistemas de Informação**  
+🎓 Estudante de **Sistemas de Informação** no IFSULDEMINAS - Campus Machado (3º período)  
 🤖 Prática de extensão em **Robótica e Automação**  
 🎯 Bolsista do projeto **+Ciência nas Escolas**  
-🚀 Apaixonado por tecnologia, inovação e soluções inteligentes
+🚀 Apaixonado por tecnologia, inovação e soluções inteligentes  
 
 ---
 
