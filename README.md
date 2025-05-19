@@ -19,7 +19,7 @@
 ##  Minhas Certificações  
 Aqui estão alguns cursos e certificações que concluí:
 
-https://drive.google.com/drive/folders/1NpASCQcgGsweiVhcEuRsRwpVrj0nJfo-?usp=drive_link
+https://drive.google.com/drive/folders/1NpASCQcgGsweiVhcEuRsRwpVrj0nJfo-?usp=sharing
 
 ---
 
