@@ -25,4 +25,4 @@ https://drive.google.com/drive/folders/1NpASCQcgGsweiVhcEuRsRwpVrj0nJfo-?usp=dri
 ---
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jose1souza&show_icons=true&theme=dark) 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jose1souza&show_icons=true&theme=dark)
