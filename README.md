@@ -6,7 +6,8 @@
 
 - Estudante de **Sistemas de Informação** no IFSULDEMINAS - Campus Machado (3º período)  
 - Prática de extensão em **Robótica e Automação**  
-- Bolsista do projeto **+Ciência nas Escolas**   
+- Bolsista do projeto **+Ciência nas Escolas**
+- Link do meu **Curriculo Lattes**: https://lattes.cnpq.br/7726369402109583 
 
 ---
 
