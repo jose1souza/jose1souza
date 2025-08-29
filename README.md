@@ -13,7 +13,7 @@
 
 ##  Tecnologias e Habilidades em Programação
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jose1souza&layout=compact&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jose1souza&layout=compact&theme=write)
 
 ---
 
