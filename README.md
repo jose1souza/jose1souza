@@ -2,7 +2,7 @@
 
 ---
 
-##  Sobre Mim  
+## Sobre Mim  
 
 - Estudante de **Sistemas de Informação** no IFSULDEMINAS - Campus Machado (3º período)  
 - Prática de extensão em **Robótica e Automação**  
@@ -11,9 +11,9 @@
 
 ---
 
-##  Tecnologias e Habilidades em Programação
+## Tecnologias e Habilidades em Programação
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jose1souza&layout=compact&theme=dark)
+![Linguagens mais usadas](./assets/top-langs.png)
 
 ---
 
@@ -21,8 +21,8 @@
 
 Aqui estão alguns projetos que desenvolvi:  
 
-- **Site para o Projeto +Ciência nas Escolas**
-  Projeto para proporcionar maior visiblidade para o projeto.    
+- **Site para o Projeto +Ciência nas Escolas**  
+  Projeto para proporcionar maior visibilidade para o projeto.    
   [🔗 Ver repositório](https://project-scienc.vercel.app/)
 
 - **Mini Instagram**  
@@ -34,16 +34,11 @@ Aqui estão alguns projetos que desenvolvi:
   [🔗 Ver repositório](https://github.com/jose1souza/BlueGateFarm)
 
 - **Sistema para gestão de finanças**  
-  Sstema para controle de gastos.  
+  Sistema para controle de gastos.  
   [🔗 Ver repositório](https://github.com/lucasa17/Administra)
-
-
-##  Minhas Certificações  
-Aqui estão alguns cursos e certificações que concluí:
-
-https://drive.google.com/drive/folders/1NpASCQcgGsweiVhcEuRsRwpVrj0nJfo-?usp=sharing
 
 ---
 
-##  Estatísticas do meu GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jose1souza&show_icons=true&theme=dark)
+## Estatísticas do meu GitHub
+
+![Estatísticas do GitHub](./assets/github-stats.png)
