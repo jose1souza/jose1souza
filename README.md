@@ -13,7 +13,7 @@
 
 ## Tecnologias e Habilidades em Programação
 
-![Linguagens mais usadas](./assets/top-langs.png)
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> </p>
 
 ---
 
@@ -36,9 +36,3 @@ Aqui estão alguns projetos que desenvolvi:
 - **Sistema para gestão de finanças**  
   Sistema para controle de gastos.  
   [🔗 Ver repositório](https://github.com/lucasa17/Administra)
-
----
-
-## Estatísticas do meu GitHub
-
-![Estatísticas do GitHub](./assets/github-stats.png)
