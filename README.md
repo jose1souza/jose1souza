@@ -25,9 +25,10 @@ Aqui estão alguns projetos que desenvolvi:
   Projeto para proporcionar maior visibilidade para o projeto.    
   [🔗 Ver repositório](https://project-scienc.vercel.app/)
 
-- **Mini Instagram**  
-  Projeto que se assemelha a um mini Instagram feito em Java com Banco de Dados SQL.  
-  [🔗 Ver repositório](https://github.com/jose1souza/InstagramCRUD)
+- **Dashboard de Salários na Área de Dados (Imersão Alura)**  
+  Projeto desenvolvido durante a Imersão Dados com **Python** da Alura (jan/2026), utilizando **Streamlit, Pandas e Plotly** para análise interativa de salários na área de dados.  
+  [🔗 Acessar Dashboard Online](https://imersao-de-dados-com-python-alura-krzb4qnr3azh8gsdggt6fs.streamlit.app/)  
+  [🔗 Ver repositório](https://github.com/jose1souza/Imersao-de-dados-com-Python-Alura)
 
 - **Site de Apoio a decisão para uma fazenda**  
   Site para fazendeiros decidirem sobre cultivo e fazendeiros, feito com Flask (Python) com banco SQL.  
@@ -36,3 +37,7 @@ Aqui estão alguns projetos que desenvolvi:
 - **Sistema para gestão de finanças**  
   Sistema para controle de gastos.  
   [🔗 Ver repositório](https://github.com/lucasa17/Administra)
+
+- **Mini Instagram**  
+  Projeto que se assemelha a um mini Instagram feito em Java com Banco de Dados SQL.  
+  [🔗 Ver repositório](https://github.com/jose1souza/InstagramCRUD)
