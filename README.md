@@ -23,7 +23,7 @@ Aqui estão alguns projetos que desenvolvi:
 
 - **Site para o Projeto +Ciência nas Escolas**  
   Projeto para proporcionar maior visibilidade para o projeto.    
-  [🔗 Ver repositório](https://project-scienc.vercel.app/)
+  [🔗 Acessar Online](https://project-scienc.vercel.app/)
 
 - **Dashboard de Salários na Área de Dados (Imersão Alura)**  
   Projeto desenvolvido durante a Imersão Dados com **Python** da Alura (jan/2026), utilizando **Streamlit, Pandas e Plotly** para análise interativa de salários na área de dados.  
