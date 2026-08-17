@@ -4,7 +4,7 @@
 
 ## Sobre Mim  
 
-- Estudante de **Sistemas de Informação** no IFSULDEMINAS - Campus Machado (5º período)  
+- Estudante de **Sistemas de Informação** no IFSULDEMINAS - Campus Machado (6º período)  
 - Prática de extensão em **Robótica e Automação**  
 - Bolsista de Extensão CNPq no projeto **+Ciência nas Escolas (IFSULDEMINAS, 2025–2026)**
 - Link do meu **Curriculo Lattes**: https://lattes.cnpq.br/7726369402109583 
