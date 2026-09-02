@@ -34,13 +34,12 @@ Atualmente, trabalho como **Bolsista em Pesquisa e Desenvolvimento no Polo de In
 
 <div align="center">
 
+![Resumo do perfil no GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jose1souza&theme=default)
+![Linguagens dos repositórios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jose1souza&theme=default)
+
 <picture>
 	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jose1souza/jose1souza/output/github-contribution-grid-snake-dark.svg">
 	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jose1souza/jose1souza/output/github-contribution-grid-snake.svg">
 	<img alt="Animação das contribuições no GitHub" src="https://raw.githubusercontent.com/jose1souza/jose1souza/output/github-contribution-grid-snake.svg">
 </picture>
-
-![Resumo do perfil no GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jose1souza&theme=default)
-![Linguagens dos repositórios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jose1souza&theme=default)
-
 </div>
