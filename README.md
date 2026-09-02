@@ -17,14 +17,11 @@ Estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (Campu
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=jose1souza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=jose1souza&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&cache_seconds=86400" alt="Linguagens Mais Utilizadas" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jose1souza&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jose1souza/jose1souza/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jose1souza/jose1souza/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jose1souza/jose1souza/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -32,6 +29,7 @@ Estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (Campu
 ## Tecnologias e Ferramentas
 
 ### Linguagens e Frameworks
+
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -41,6 +39,7 @@ Estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (Campu
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Ferramentas e Metodologias
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
