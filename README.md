@@ -3,7 +3,7 @@
   <p><b>Bolsista em Pesquisa e Desenvolvimento | Polo de Inovação EMBRAPII IFSULDEMINAS</b></p>
 
   [![Lattes Badge](https://img.shields.io/badge/Curr%C3%ADculo_Lattes-CNPq-blue?style=flat-square)](http://lattes.cnpq.br/7726369402109583)
-  [![Location Badge](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Machado%2C_MG-lightgrey?style=flat-square)](#)
+  [![Location Badge](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Machado%2C_MG-lightgrey?style=flat-square)](https://www.google.com/maps/place/Machado,+MG)
 </div>
 
 ---
@@ -18,11 +18,14 @@ Estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (Campu
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose1souza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose1souza&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Linguagens Mais Utilizadas" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose1souza&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
+  <img src="https://streak-stats.demolab.com/?user=jose1souza&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
 </div>
 
 ---
