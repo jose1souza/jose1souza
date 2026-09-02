@@ -1,20 +1,22 @@
-# José Carlos Souza
-
-**Bolsista em Pesquisa e Desenvolvimento no Polo de Inovação EMBRAPII IFSULDEMINAS**
+![Boas vindas ao meu Github](imagens/capa.gif)
 
 ## 👨‍💻 Quem sou eu 👨‍💻
 
-Sou estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (Campus Machado). Atuo em projetos de pesquisa e desenvolvimento de software no **Polo EMBRAPII Agroindústria do Café**, com foco em desenvolvimento web, integração de sistemas e inovação tecnológica.
+Olá! Eu sou o José Carlos, estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS - Campus Machado e apaixonado por programação. Atualmente, trabalho como **Bolsista em Pesquisa e Desenvolvimento no Polo de Inovação EMBRAPII IFSULDEMINAS**
 
 ## 🗂️ O que você encontra no meu GitHub 🗂️
 
-- Aplicações web
-- Projetos de pesquisa e desenvolvimento
-- Sistemas para gestão e apoio à decisão
-- Projetos de estudo em Java, Python e C#
-- Projetos com Arduino e Internet das Coisas
+👩‍💻 Aplicações Web
 
-## 🌟 Tecnologias e ferramentas 🌟
+🤖 Projetos com Arduino e Internet das Coisas
+
+⚙️ Projetos de pesquisa e desenvolvimento
+
+🖥️ Projetos de estudo
+
+🛠️ Ferramentas e Scripts (na sua maioria para solucionar algum problema meu)
+
+## 🌟 Tecnologias nas quais estou focado atualmente 🌟
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -41,20 +43,3 @@ Sou estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (C
 ![Linguagens dos repositórios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jose1souza&theme=default)
 
 </div>
-
-## 🚀 Projetos em destaque 🚀
-
-- **+Ciência nas Escolas:** plataforma para atividades e treinamento STEAM. [Aplicação](https://project-scienc.vercel.app)
-- **Dashboard de Salários:** análise visual de dados salariais com Python e Streamlit. [Aplicação](https://imersao-de-dados-com-python-alura-krzb4qnr3azh8gsdggt6fs.streamlit.app/) e [repositório](https://github.com/jose1souza/Imersao-de-dados-com-Python-Alura)
-- **BlueGateFarm:** sistema de apoio à decisão e gestão agrícola. [Repositório](https://github.com/jose1souza/BlueGateFarm)
-- **Sistema de Gestão de Finanças:** aplicação para controle financeiro. [Repositório](https://github.com/lucasa17/Administra)
-- **Mini Instagram:** aplicação CRUD em Java e SQL. [Repositório](https://github.com/jose1souza/InstagramCRUD)
-
-## 🎓 Formação e certificações 🎓
-
-- **Educador do Futuro: STEAM, Letramento Digital e Inovação (300h)** — IFMG
-- **Desenvolvimento em IoT e Arduino (60h)** — IFSULDEMINAS (Campus Machado)
-- **Data Analytics Essentials (30h)** — Cisco Networking Academy
-- **Gestão de Projetos Scrum: Metodologia Ágil (30h)** — IFMG
-- **Introdução à Programação em Java (30h)** — IFMG
-- **Prototipação com Figma (4h)** — IFSULDEMINAS (Campus Machado)
