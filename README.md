@@ -2,7 +2,8 @@
 
 ## 👨‍💻 Quem sou eu 👨‍💻
 
-Olá! Eu sou o José Carlos, estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS - Campus Machado e apaixonado por programação. Atualmente, trabalho como **Bolsista em Pesquisa e Desenvolvimento no Polo de Inovação EMBRAPII IFSULDEMINAS**
+Olá! Eu sou o José Carlos, estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS - Campus Machado e apaixonado por programação. 
+Atualmente, trabalho como **Bolsista em Pesquisa e Desenvolvimento no Polo de Inovação EMBRAPII IFSULDEMINAS**
 
 ## 🗂️ O que você encontra no meu GitHub 🗂️
 
