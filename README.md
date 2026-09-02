@@ -1,52 +1,67 @@
-## Perfil do Jose Carlos Souza
+<div align="center">
+  <h1>José Carlos Souza</h1>
+  <p><b>Bolsista em Pesquisa e Desenvolvimento | Polo de Inovação EMBRAPII IFSULDEMINAS</b></p>
+
+  [![Lattes Badge](https://img.shields.io/badge/Curr%C3%ADculo_Lattes-CNPq-blue?style=flat-square)](http://lattes.cnpq.br/7726369402109583)
+  [![Location Badge](https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Machado%2C_MG-lightgrey?style=flat-square)](#)
+</div>
 
 ---
 
-## Sobre Mim  
+## Sobre Mim
 
-- Estudante de **Sistemas de Informação** no IFSULDEMINAS - Campus Machado (6º período)  
-- Prática de extensão em **Robótica e Automação**  
-- Bolsista de Extensão CNPq no projeto **+Ciência nas Escolas (IFSULDEMINAS, 2025–2026)**
-- Link do meu **Curriculo Lattes**: https://lattes.cnpq.br/7726369402109583 
+Estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (Campus Machado). Atuo em projetos de pesquisa e desenvolvimento de software no **Polo EMBRAPII Agroindústria do Café**, criando soluções digitais com foco em desenvolvimento web, integração de sistemas e inovação tecnológica.
 
 ---
 
-## Tecnologias e Habilidades em Programação
+## Estatísticas do GitHub
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="PHP"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/></td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose1souza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose1souza&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Linguagens Mais Utilizadas" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jose1souza&theme=tokyonight&hide_border=true" alt="Sequência de Commits" />
+</div>
 
 ---
 
-## Projetos Pessoais  
+## Tecnologias e Ferramentas
 
-Aqui estão alguns projetos que desenvolvi:  
+### Linguagens e Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- **Site para o Projeto +Ciência nas Escolas**  
-  Projeto para proporcionar maior visibilidade para o projeto.    
-  [🔗 Acessar Online](https://project-scienc.vercel.app/)
+### Ferramentas e Metodologias
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
-- **Dashboard de Salários na Área de Dados (Imersão Alura)**  
-  Projeto desenvolvido durante a Imersão Dados com **Python** da Alura (jan/2026), utilizando **Streamlit, Pandas e Plotly** para análise interativa de salários na área de dados.  
-  [🔗 Acessar Dashboard Online](https://imersao-de-dados-com-python-alura-krzb4qnr3azh8gsdggt6fs.streamlit.app/)  
-  [🔗 Ver repositório](https://github.com/jose1souza/Imersao-de-dados-com-Python-Alura)
+---
 
-- **Site de Apoio a decisão para uma fazenda**  
-  Site para fazendeiros decidirem sobre cultivo e fazendeiros, feito com Flask (Python) com banco SQL.  
-  [🔗 Ver repositório](https://github.com/jose1souza/BlueGateFarm)
+## Projetos em Destaque
 
-- **Sistema para gestão de finanças**  
-  Sistema para controle de gastos.  
-  [🔗 Ver repositório](https://github.com/lucasa17/Administra)
+| **+Ciência nas Escolas** | Plataforma para projeto de extensão acadêmica reunindo atividades e treinamento STEAM. | [Aplicação Online](https://project-scienc.vercel.app) |
+| **Dashboard de Salários** | Aplicação desenvolvida em Python e Streamlit para análise visual de dados salariais. | [Aplicação Online](https://imersao-de-dados-com-python-alura-krzb4qnr3azh8gsdggt6fs.streamlit.app/) \| [Repositório](https://github.com/jose1souza/Imersao-de-dados-com-Python-Alura) |
+| **BlueGateFarm** | Sistema voltado para apoio à decisão e gestão agrícola. | [Repositório](https://github.com/jose1souza/BlueGateFarm) |
+| **Sistema de Gestão de Finanças** | Aplicação para controle e administração financeira. | [Repositório](https://github.com/lucasa17/Administra) |
+| **Mini Instagram** | Aplicação CRUD desenvolvida em Java e SQL simulando funções de rede social. | [Repositório](https://github.com/jose1souza/InstagramCRUD) |
 
-- **Mini Instagram**  
-  Projeto que se assemelha a um mini Instagram feito em Java com Banco de Dados SQL.  
-  [🔗 Ver repositório](https://github.com/jose1souza/InstagramCRUD)
+---
+
+## Formação e Certificações
+
+- **Educador do Futuro: STEAM, Letramento Digital e Inovação (300h)** — IFMG
+- **Desenvolvimento em IoT e Arduino (60h)** — IFSULDEMINAS (Campus Machado)
+- **Data Analytics Essentials (30h)** — Cisco Networking Academy
+- **Gestão de Projetos Scrum: Metodologia Ágil (30h)** — IFMG
+- **Introdução à Programação em Java (30h)** — IFMG
+- **Prototipação com Figma (4h)** — IFSULDEMINAS (Campus Machado)
