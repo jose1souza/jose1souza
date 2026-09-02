@@ -17,9 +17,8 @@ Estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (Campu
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jose1souza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose1souza&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Linguagens Mais Utilizadas" />
+  <img height="180em" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api?username=jose1souza&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-git-masterrst-anurag-hazras-projects.vercel.app/api/top-langs/?username=jose1souza&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&cache_seconds=86400" alt="Linguagens Mais Utilizadas" />
 </div>
 
 <br />
@@ -33,13 +32,13 @@ Estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (Campu
 ## Tecnologias e Ferramentas
 
 ### Linguagens e Frameworks
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Ferramentas e Metodologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
