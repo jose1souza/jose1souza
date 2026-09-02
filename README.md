@@ -4,18 +4,29 @@
 
 ## Sobre Mim
 
-Estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (Campus Machado). Atuo em projetos de pesquisa e desenvolvimento de software no **Polo EMBRAPII Agroindústria do Café**, criando soluções digitais com foco em desenvolvimento web, integração de sistemas e inovação tecnológica.
+Estudante do 6º período de **Sistemas de Informação** no IFSULDEMINAS (Campus Machado).
 
 ## Status do GitHub
 
-![Resumo do perfil no GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose1souza&theme=default)
-![Linguagens dos repositórios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jose1souza&theme=default)
+[Resumo do perfil no GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jose1souza&theme=default)
+[Linguagens dos repositórios](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jose1souza&theme=default)
 
 ## Tecnologias e Ferramentas
 
-Laravel, HTML5, CSS3, JavaScript, Python, Java e C#.
+[Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+[Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+[C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-Git, GitHub, Arduino, Figma e Scrum.
+### Ferramentas e Metodologias
+
+[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+[Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
 
 ## Projetos em Destaque
 
