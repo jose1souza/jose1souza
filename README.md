@@ -17,6 +17,13 @@ Atualmente, trabalho como **Bolsista em Pesquisa e Desenvolvimento no Polo de In
 
 🛠️ Ferramentas e Scripts (na sua maioria para solucionar algum problema meu)
 
+aqui
+## ⭐ Melhores repositórios
+
+- [Imersão de Dados com Python - Alura](https://github.com/jose1souza/Imersao-de-dados-com-Python-Alura)
+- [Gerência](https://github.com/jose1souza/Gerencia)
+- [Robótica](https://github.com/jose1souza/Robotica)
+
 ## 🌟 Tecnologias nas quais estou focado atualmente 🌟
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
