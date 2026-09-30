@@ -17,7 +17,6 @@ Atualmente, trabalho como **Bolsista em Pesquisa e Desenvolvimento no Polo de In
 
 🛠️ Ferramentas e Scripts (na sua maioria para solucionar algum problema meu)
 
-aqui
 ## ⭐ Melhores repositórios
 
 - [Imersão de Dados com Python - Alura](https://github.com/jose1souza/Imersao-de-dados-com-Python-Alura)
