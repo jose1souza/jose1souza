@@ -21,6 +21,7 @@ aqui
 ## ⭐ Melhores repositórios
 
 - [Imersão de Dados com Python - Alura](https://github.com/jose1souza/Imersao-de-dados-com-Python-Alura)
+- [Site +Ciência nas Escolas](https://github.com/jose1souza/Project-Scienc)
 - [Gerência](https://github.com/jose1souza/Gerencia)
 - [Robótica](https://github.com/jose1souza/Robotica)
 
